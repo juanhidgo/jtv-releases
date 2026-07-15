@@ -71,7 +71,7 @@ If you are a content owner and believe your content is being accessed without au
 
 JTV is **free to use** (freeware). The application is provided at no cost for personal, non-commercial use.
 
-All rights reserved. © 2024–2025 Archbits
+All rights reserved. © 2026 Archbits
 
 Redistribution, modification, reverse engineering, or repackaging of JTV binaries is not permitted without explicit written permission from the author.
 
@@ -79,4 +79,4 @@ Redistribution, modification, reverse engineering, or repackaging of JTV binarie
 
 ## Contact
 
-For issues or inquiries: [juanhidgo@gmail.com](mailto:juanhidgo@gmail.com)
+For issues or inquiries: [contact@archbits.xyz](mailto:contact@archbits.xyz)
