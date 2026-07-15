@@ -80,3 +80,90 @@ Redistribution, modification, reverse engineering, or repackaging of JTV binarie
 ## Contact
 
 For issues or inquiries: [contact@archbits.xyz](mailto:contact@archbits.xyz)
+
+
+---
+---
+
+# JTV — Agregador de TV en Vivo
+
+**JTV** es una aplicación de escritorio gratuita y ligera para Windows que agrega canales de TV en vivo desde fuentes de terceros en una sola interfaz limpia. Sin suscripciones. Sin cuentas. Sin publicidad.
+
+---
+
+## Características
+
+- 📺 **TV en Vivo** — explora y sintoniza cientos de canales organizados por idioma, género y evento
+- ⭐ **Favoritos** — guarda tus canales más vistos para acceso rápido
+- 🔍 **Filtros** — organiza canales por idioma, género y eventos en vivo
+- 🌐 **Interfaz multiidioma** — English, Español, Português, Français, Deutsch
+- 🔄 **Actualización automática** — el actualizador integrado busca nuevas versiones automáticamente
+- ⌨️ **Atajos de teclado** — teclas rápidas configurables para zapping, volumen y pantalla completa
+- 🎨 **Fondos de pantalla** — personaliza el fondo de la pantalla de inicio
+- 🔒 **DNS Cloudflare** — enrutamiento DNS-over-HTTPS opcional via Cloudflare (1.1.1.2) para bloquear malware
+
+---
+
+## Instalación
+
+1. Ve a la página de [Releases](https://github.com/juanhidgo/jtv-releases/releases/latest)
+2. Descarga la versión que se adapte a tus necesidades (ver tabla abajo)
+3. Ejecuta el archivo y sigue las instrucciones
+4. Abre **JTV** desde el acceso directo del escritorio o el menú de Inicio
+
+> Windows puede mostrar una advertencia de SmartScreen la primera vez — haz clic en **Más información → Ejecutar de todas formas**. Esto es normal para software independiente sin firma digital.
+
+### Instalador vs Portable
+
+| | **JTV-Installer-x.x.xx.exe** | **JTV-Portable-x.x.xx.exe** |
+|---|---|---|
+| **Instalación** | Se instala en Archivos de programa | No requiere instalación |
+| **Acceso directo** | ✅ Se crea automáticamente | ❌ Ejecutar directo desde cualquier carpeta |
+| **Desinstalador** | ✅ Desde Configuración de Windows | ❌ Solo elimina el archivo |
+| **Actualización automática** | ✅ Compatible | ❌ Descarga manual requerida |
+| **Ideal para** | Uso doméstico habitual | USB, entornos aislados |
+
+**¿No sabes cuál elegir?** Descarga el **Instalador**.
+
+---
+
+## Requisitos del sistema
+
+| | |
+|---|---|
+| **SO** | Windows 10 / 11 (64 bits) |
+| **RAM** | 256 MB mínimo |
+| **Internet** | Requerido para reproducción de streams |
+
+---
+
+## Aviso Legal
+
+JTV es únicamente una herramienta de agregación de streams. No aloja, produce, transmite ni almacena ningún contenido multimedia.
+
+Todos los streams mostrados en JTV provienen directamente de proveedores externos sobre los cuales JTV no tiene control, propiedad ni afiliación. JTV actúa únicamente como interfaz de visualización y no tiene acuerdos con propietarios de contenido ni emisoras.
+
+**El usuario asume plena y exclusiva responsabilidad por:**
+- La legalidad de acceder a cualquier stream en su país o jurisdicción
+- Todo el contenido visualizado a través de la aplicación
+- El cumplimiento de las leyes locales de derechos de autor, radiodifusión y consumo de medios
+
+JTV no ofrece garantías sobre la legalidad, exactitud, disponibilidad o calidad del contenido accesible a través de la aplicación. El acceso a ciertos streams puede estar restringido o ser ilegal dependiendo de tu ubicación.
+
+Si eres propietario de contenido y crees que se está accediendo a él sin autorización a través de una fuente de terceros listada en esta aplicación, contacta directamente al proveedor del stream correspondiente.
+
+---
+
+## Licencia
+
+JTV es **gratuito** (freeware). La aplicación se ofrece sin costo para uso personal y no comercial.
+
+Todos los derechos reservados. © 2026 Archbits
+
+Queda prohibida la redistribución, modificación, ingeniería inversa o reempaquetado de los binarios de JTV sin autorización expresa por escrito del autor.
+
+---
+
+## Contacto
+
+Para consultas o reportes: [contact@archbits.xyz](mailto:contact@archbits.xyz)
