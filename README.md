@@ -20,11 +20,23 @@
 ## Installation
 
 1. Go to the [Releases](https://github.com/juanhidgo/jtv-releases/releases/latest) page
-2. Download **JTV Setup x.x.xx.exe**
-3. Run the installer and follow the steps
+2. Download the version that fits your needs (see below)
+3. Run the file and follow any prompts
 4. Launch **JTV** from the desktop shortcut or Start Menu
 
 > Windows may show a SmartScreen warning on first run — click **More info → Run anyway**. This is expected for unsigned independent software.
+
+### Installer vs Portable
+
+| | **JTV-Installer-x.x.xx.exe** | **JTV-Portable-x.x.xx.exe** |
+|---|---|---|
+| **Installation** | Installs to Program Files | No installation needed |
+| **Desktop shortcut** | ✅ Created automatically | ❌ Run directly from any folder |
+| **Uninstaller** | ✅ Via Windows Settings | ❌ Just delete the file |
+| **Auto-update** | ✅ Supported | ❌ Manual download required |
+| **Best for** | Regular home use | USB drives, sandboxed environments |
+
+**Not sure which to pick?** Go with the **Installer**.
 
 ---
 
